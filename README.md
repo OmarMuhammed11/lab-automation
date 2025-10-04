@@ -2,7 +2,7 @@
 
 ## Test Coverage
  **Positive Scenario: Complete Checkout Flow**
-- User logs in sucessfully
+- User logs in sucessfuly
 - Selects 3 random products
 - Adds products to cart
 - Review cart
